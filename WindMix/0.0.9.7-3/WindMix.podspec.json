@@ -1,0 +1,27 @@
+{
+"summary":"Mix rendering technology of MiniApp",
+"resources":["WindMix.framework/WindMixView.bundle"],
+"platforms":{
+"ios":"8.0"
+},
+"homepage":"http://gitlab.alibaba-inc.com/ali-wireless-h5/windmix-ios",
+"version":"0.0.9.7-3",
+"source_code":{
+"commit":"7d54b4eee3fbbade0e0f1c8aad1d04064c8060b5",
+"git":"git@gitlab.alibaba-inc.com:ali-wireless-h5/windmix-ios.git"
+},
+"authors":{
+"千之":"fangxi.fx@alibaba-inc.com"
+},
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/WindMix/0.0.9.7-3/WindMix.zip"
+},
+"description":"Mix rendering technology of MiniApp",
+"name":"WindMix",
+"source_files":["WindMix.framework/Headers/*"],
+"license":{
+"text":"           Alibaba-INC copyright\r\n",
+"type":"Copyright"
+},
+"vendored_frameworks":["WindMix.framework"]
+}

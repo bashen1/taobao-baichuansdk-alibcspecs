@@ -1,0 +1,27 @@
+{
+  "summary": "UTDID.",
+  "exclude_files": "UTDID.framework/Versions/A/Resources/Info.plist",
+  "resources": "UTDID.framework/Versions/A/Resources/*",
+  "preserve_paths": "UTDID.framework/*",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "homepage": "http://gitlab.alibaba-inc.com/wireless/tbmainclientframework",
+  "version": "1.1.0.16",
+  "authors": {
+    "戴码": "chenjie.dcj@taobao.com"
+  },
+  "xcconfig": {
+    "FRAMEWORK_SEARCH_PATHS": "$(PODS_ROOT)/UTDID"
+  },
+  "source": {
+    "http": "http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/UTDID/1.1.0.16/UTDID.framework.zip"
+  },
+  "description": "UTDID description\ncommit:b1809cbe5806e88b5b1a41d4972964bedd117ef0",
+  "name": "UTDID",
+  "license": {
+    "text": "           Alibaba-INC copyright\n",
+    "type": "Copyright"
+  },
+  "vendored_frameworks": "UTDID.framework"
+}

@@ -1,0 +1,36 @@
+{
+  "summary": "UserTrack and AppMonitor for BaiChuan Framework.",
+  "frameworks": [
+    "SystemConfiguration",
+    "CoreTelephony"
+  ],
+  "libraries": [
+    "z",
+    "sqlite3"
+  ],
+  "description": "监控埋点SDK                   \n commit:2b5f26db91d4d443941e0a9e693bec0dd45037c2",
+  "source": {
+    "http": "http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/BCUserTrack/5.1.0.8/UTMini.framework.zip"
+  },
+  "version": "5.1.0.8",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "dependencies": {
+    "UTDID": []
+  },
+  "license": {
+    "text": "           Alibaba-INC copyright\n",
+    "type": "Copyright"
+  },
+  "exclude_files": [
+    "UT.framework/Versions/A/Resources/Info.plist",
+    "UT.framework/Versions/A/Headers/*.h"
+  ],
+  "vendored_frameworks": "UTMini.framework",
+  "name": "BCUserTrack",
+  "homepage": "http://gitlab.alibaba-inc.com/wireless/appmonitor",
+  "authors": {
+    "玄叶": "lingye.hanly@alibaba-inc.com"
+  }
+}

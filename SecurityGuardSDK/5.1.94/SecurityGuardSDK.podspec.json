@@ -1,0 +1,23 @@
+{
+  "summary": "无线保镖框架",
+  "license": {
+    "text": "           Alibaba-INC copyright\n",
+    "type": "Copyright"
+  },
+  "exclude_files": "SecurityGuardSDK.framework/Info.plist",
+  "frameworks": "Foundation",
+  "vendored_frameworks": "SecurityGuardSDK.framework",
+  "name": "SecurityGuardSDK",
+  "description": "SecurityGuardSDK description\ncommit:720a5a76be2ef7b690b06e1a8ddaed70af2613a5",
+  "source": {
+    "http": "http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/SecurityGuardSDK/5.1.94/SecurityGuardSDK.5.1.94.framework.zip"
+  },
+  "version": "5.1.94",
+  "homepage": "http://wsg.alibaba-inc.com",
+  "authors": {
+    "逸尘": "yichen.lfz@taobao.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  }
+}

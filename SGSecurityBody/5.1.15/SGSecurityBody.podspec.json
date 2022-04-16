@@ -1,0 +1,31 @@
+{
+  "exclude_files": "SGSecurityBody.framework/Info.plist",
+  "summary": "无线保镖人机插件",
+  "frameworks": "Foundation",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "homepage": "http://wsg.alibaba-inc.com",
+  "version": "5.1.15",
+  "authors": {
+    "逸尘": "yichen.lfz@taobao.com"
+  },
+  "source": {
+    "http": "http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/SGSecurityBody/5.1.15/SGSecurityBody.framework.zip"
+  },
+  "dependencies": {
+    "SecurityGuardSDK": [
+      ">= 5.1.22"
+    ],
+    "SGMain": [
+      ">= 5.1.22"
+    ]
+  },
+  "description": "SGSecurityBody description\ncommit:720a5a76be2ef7b690b06e1a8ddaed70af2613a5",
+  "name": "SGSecurityBody",
+  "license": {
+    "text": "           Alibaba-INC copyright\n",
+    "type": "Copyright"
+  },
+  "vendored_frameworks": "SGSecurityBody.framework"
+}

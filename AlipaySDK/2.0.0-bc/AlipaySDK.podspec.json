@@ -1,0 +1,22 @@
+{
+  "authors": {
+    "御道": "madding.lip@alibaba-inc.com"
+  },
+  "description": "Baichuan Sytstem Framework",
+  "homepage": "http://gitlab.alibaba-inc.com/baichuan_ios/AlipaySDK",
+  "license": {
+    "text": "Alibaba-INC copyright",
+    "type": "Copyright"
+  },
+  "name": "AlipaySDK",
+  "platforms": {},
+  "preserve_paths": "alipay/*.framework/*",
+  "requires_arc": true,
+  "resources": "alipay/*.bundle",
+  "source": {
+    "http": "http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AlipaySDK/2.0.0-bc/alipay.zip"
+  },
+  "summary": "阿里开发平台百川项目 AlipaySDK.",
+  "vendored_frameworks": "alipay/*.framework",
+  "version": "2.0.0-bc"
+}

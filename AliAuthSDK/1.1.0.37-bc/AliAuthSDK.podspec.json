@@ -1,0 +1,28 @@
+{
+"authors":{
+"一宵":"litao.zlt@alibaba-inc.com"
+},
+"dependencies":{
+
+},
+"description":"AlibabaAuthSDK Framework",
+"homepage":"https://www.taobao.com/",
+"license":{
+"text":"Alibaba-Inc copyright",
+"type":"Copyright"
+},
+"name":"AliAuthSDK",
+"platforms":{
+"ios":"8.0"
+},
+"requires_arc":true,
+"resources":["AlibabaAuthSDK.framework/AlibabaAuthSDK.bundle"],
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AliAuthSDK/1.1.0.37-bc/AliAuthSDK.zip"
+},
+"summary":"AlibabaAuthSDK: 会员认证SDK",
+"vendored_frameworks":["AlibabaAuthEntrance.framework",
+"AlibabaAuthExt.framework",
+"AlibabaAuthSDK.framework"],
+"version":"1.1.0.37-bc"
+}

@@ -1,0 +1,26 @@
+{
+"authors":{
+"军陌":"lingkun.lk@alibaba-inc.com"
+},
+"dependencies":{
+"BCUserTrack":[]
+},
+"description":"CloudPushSDK Framework",
+"homepage":"https://www.aliyun.com/product/cps?spm=5176.8142029.388261.79.CazQST",
+"license":{
+"text":"Alibaba-INC copyright",
+"type":"Copyright"
+},
+"name":"CloudPushSDK",
+"platforms":{
+"ios":"7.0"
+},
+"requires_arc":true,
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/CloudPushSDK/1.8.2/CloudPushSDK.zip"
+},
+"summary":"阿里百川云推送",
+"vendored_frameworks":["CloudPushSDK.framework",
+"AlicloudUtils.framework"],
+"version":"1.8.2"
+}

@@ -1,0 +1,26 @@
+{
+"authors":{
+"仙翁":"xianweng.hxq@taobao.com"
+},
+"dependencies":{
+
+},
+"description":"AliLinkPartnerSDK Framework",
+"homepage":"http://gitlab.alibaba-inc.com/baichuan-nbcp/nbsdk-iOS",
+"license":{
+"text":"Alibaba-INC copyright",
+"type":"Copyright"
+},
+"name":"AliLinkPartnerSDK",
+"platforms":{
+"ios":"8.0"
+},
+"resources":["AlibcLinkPartnerSDK.framework/SmartLink.bundle"],
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AliLinkPartnerSDK/4.0.0.24-wk/AliLinkPartnerSDK.zip"
+},
+"source_files":"AlibcLinkPartnerSDK.framework/Headers/*",
+"summary":"阿里百川电商云.",
+"vendored_frameworks":["AlibcLinkPartnerSDK.framework"],
+"version":"4.0.0.24-wk"
+}

@@ -1,0 +1,37 @@
+{
+"summary":"miniAppMediaSDK Source.",
+"source_code":{
+"commit":"cddef8f9b9c2f4a1ab6970fc8ef552e902d06ba5",
+"git":"git@gitlab.alibaba-inc.com:taobao-miniapp-media/miniapp-media-iOS.git"
+},
+"authors":{
+"言杰":"frank.wy@alibaba-inc.com"
+},
+"subspecs":[{
+"resources":["AliWindmillImage.framework/image_windmillapi.json"],
+"dependencies":{
+
+},
+"name":"Image",
+"platforms":{
+"ios":"8.0"
+},
+"source_files":["AliWindmillImage.framework/Headers/*"],
+"vendored_frameworks":["AliWindmillImage.framework"]
+}],
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/miniAppMediaSDK/0.0.1.45-BC2/miniAppMediaSDK.zip"
+},
+"description":"miniAppMediaSDK Source description",
+"name":"miniAppMediaSDK",
+"platforms":{
+
+},
+"license":{
+"text":"Alibaba-INC copyright",
+"type":"Copyright"
+},
+"default_subspecs":["Image"],
+"homepage":"http://gitlab.alibaba-inc.com/taobao-miniapp-media/miniapp-media-iOS.git",
+"version":"0.0.1.45-BC2"
+}

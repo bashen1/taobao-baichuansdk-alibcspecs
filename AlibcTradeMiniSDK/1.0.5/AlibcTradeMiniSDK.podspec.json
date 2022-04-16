@@ -1,0 +1,32 @@
+{
+"exclude_files":["SGMain.framework/Info.plist",
+"SecurityGuardSDK.framework/Info.plist"],
+"summary":"阿里百川电商SDK.",
+"authors":{
+"仙翁":"xianweng.hxq@taobao.com"
+},
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AlibcTradeMiniSDK/1.0.5/AlibcTradeMiniSDK.zip"
+},
+"dependencies":{
+
+},
+"description":"AlibcTradeMiniSDK Framework",
+"name":"AlibcTradeMiniSDK",
+"platforms":{
+"ios":"8.0"
+},
+"license":{
+"text":"Alibaba-INC copyright",
+"type":"Copyright"
+},
+"source_files":["AlibcTradeMiniSDK.framework/Headers/*"],
+"homepage":"http://gitlab.alibaba-inc.com/baichuan-nbcp/AlibcTradeMiniSDK",
+"vendored_frameworks":["AlibcTradeMiniSDK.framework",
+"SGMain.framework",
+"SecurityGuardSDK.framework",
+"AlibcLinkPartnerSDK.framework",
+"UTMini.framework",
+"UTDID.framework"],
+"version":"1.0.5"
+}

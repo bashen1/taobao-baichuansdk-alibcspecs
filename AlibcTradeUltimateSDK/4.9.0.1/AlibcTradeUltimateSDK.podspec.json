@@ -1,0 +1,36 @@
+{
+"summary":"阿里百川电商SDK.",
+"resources":["AlibcTradeWebViewContainer.framework/NBWebResource.bundle",
+"AlibcTradeUltimateBizSDK.framework/NBBizResource.bundle",
+"AlibcTrademiniAppContainer.framework/AlibcTradetrvContainer_triverApi.json"],
+"authors":{
+"仙翁":"xianweng.hxq@taobao.com"
+},
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AlibcTradeUltimateSDK/4.9.0.1/AlibcTradeUltimateSDK.zip"
+},
+"dependencies":{
+
+},
+"description":"AlibcTradeUltimateSDK Framework",
+"name":"AlibcTradeUltimateSDK",
+"platforms":{
+"ios":"9.0"
+},
+"source_files":["AlibcTradeUltimateSDK.framework/Headers/*",
+"AlibcTradeUltimateBizSDK.framework/Headers/*",
+"AlibcTradeContainer.framework/Headers/*"],
+"license":{
+"text":"Alibaba-INC copyright",
+"type":"Copyright"
+},
+"vendored_frameworks":["AlibcTradeUltimateSDK.framework",
+"AlibcTradeBaseContainer.framework",
+"AlibcTradeContainer.framework",
+"AlibcTradeUltimateBizSDK.framework",
+"AlibcTradeWebViewContainer.framework",
+"AlibcTrademiniAppContainer.framework",
+"AlibcTradeCommonSDK.framework"],
+"homepage":"http://gitlab.alibaba-inc.com/baichuan-nbcp/nbsdk-iOS",
+"version":"4.9.0.1"
+}

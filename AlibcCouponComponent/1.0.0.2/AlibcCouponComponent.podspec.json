@@ -1,0 +1,24 @@
+{
+"authors":{
+"张角":"zhangjiao@taobao.com"
+},
+"dependencies":{
+"AlibcTradeContainer":[],
+"SGSecurityBody":[]
+},
+"description":"阿里开发平台百川项目  ALiPCCouponPacket.",
+"homepage":"http://taoabo.com",
+"license":"MIT",
+"name":"AlibcCouponComponent",
+"platforms":{
+"ios":"7.0"
+},
+"resources":["AlibcCouponComponent.framework/Resources/*"],
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AlibcCouponComponent/1.0.0.2/AlibcCouponComponent.zip"
+},
+"source_files":"AlibcCouponComponent.framework/Headers/*",
+"summary":"阿里开发平台百川项目",
+"vendored_frameworks":["AlibcCouponComponent.framework"],
+"version":"1.0.0.2"
+}

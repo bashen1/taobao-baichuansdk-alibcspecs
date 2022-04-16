@@ -1,0 +1,20 @@
+{
+"summary":"阿里百川电商SDK.",
+"authors":{
+"仙翁":"xianweng.hxq@taobao.com"
+},
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AlibcTrademiniAppContainer/4.9.2.5-1/AlibcTrademiniAppContainer.zip"
+},
+"description":"AlibcTrade miniappContainer Framework",
+"name":"AlibcTrademiniAppContainer",
+"platforms":{
+"ios":"9.0"
+},
+"license":{
+"text":"Alibaba-INC copyright",
+"type":"Copyright"
+},
+"homepage":"http://gitlab.alibaba-inc.com/baichuan-nbcp/nbsdk-iOS",
+"version":"4.9.2.5-1"
+}

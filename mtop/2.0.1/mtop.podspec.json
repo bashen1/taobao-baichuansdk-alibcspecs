@@ -1,0 +1,31 @@
+{
+"authors":{
+"亿刀":"laiqiang.zlq@taobao.com"
+},
+"dependencies":{
+"SGMain":[],
+"SGNoCaptcha":[],
+"SGSecurityBody":[],
+"SecurityGuardSDK":[]
+},
+"description":"MTOP SDK for IOS",
+"frameworks":["UIKit",
+"Foundation"],
+"license":{
+"text":"              Alibaba-Inc copyright",
+"type":"Copyright"
+},
+"name":"mtop",
+"platforms":{
+"ios":"7.0"
+},
+"resources":["OpenMtopExt.framework/Resources/*",
+"OpenMtopSDK.framework/Resources/*"],
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/mtop/2.0.1/mtop.zip"
+},
+"summary":"淘宝MTOPSDK",
+"vendored_frameworks":["OpenMtopExt.framework",
+"OpenMtopSDK.framework"],
+"version":"2.0.1"
+}

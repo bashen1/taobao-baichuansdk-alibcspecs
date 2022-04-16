@@ -1,0 +1,27 @@
+{
+"authors":{
+"张角":"zhangjiao@taobao.com"
+},
+"dependencies":{
+"AlibcAddCartComponent":[],
+"AlibcTradeContainer":[]
+},
+"description":"AlibcWant Framework",
+"homepage":"http://gitlab.alibaba-inc.com/baichuan-nbcp/AliBCWant-iOS",
+"license":{
+"text":"Alibaba-INC copyright",
+"type":"Copyright"
+},
+"name":"AlibcWant",
+"platforms":{
+"ios":"7.0"
+},
+"resources":["AliBCWant.framework/Resources/*"],
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AlibcWant/1.0.1.0/AlibcWant.zip"
+},
+"source_files":"AliBCWant.framework/Headers/*",
+"summary":"阿里百川电商云Want项目 AlibcWant.",
+"vendored_frameworks":["AliBCWant.framework"],
+"version":"1.0.1.0"
+}

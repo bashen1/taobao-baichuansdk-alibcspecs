@@ -1,0 +1,26 @@
+{
+"authors":{
+"仙翁":"xianweng.hxq@taobao.com"
+},
+"dependencies":{
+"UTDID":[]
+},
+"description":"AlibcLinkPartnerSDK Framework",
+"homepage":"http://gitlab.alibaba-inc.com/baichuan-nbcp/nbsdk-iOS",
+"license":{
+"text":"Alibaba-INC copyright",
+"type":"Copyright"
+},
+"name":"AlibcLinkPartnerSDK",
+"platforms":{
+"ios":"7.0"
+},
+"resources":["AlibcLinkPartnerSDK.framework/ALPLinkPartnerSDK.bundle"],
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AlibcLinkPartnerSDK/1.1.0.0/AlibcLinkPartnerSDK.zip"
+},
+"source_files":"AlibcLinkPartnerSDK.framework/Headers/*",
+"summary":"阿里百川电商云.",
+"vendored_frameworks":["AlibcLinkPartnerSDK.framework"],
+"version":"1.1.0.0"
+}

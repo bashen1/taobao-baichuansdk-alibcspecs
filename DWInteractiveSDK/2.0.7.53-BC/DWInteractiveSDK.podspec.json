@@ -1,0 +1,36 @@
+{
+"summary":"A short description of DWInteractiveSDK.",
+"resources":["DWInteractiveSDK.framework/DWInteractiveSDK.xcassets",
+"AliHADeviceEvaluation.framework/alihadeviceevaluation_bundle.plist"],
+"frameworks":["UIKit",
+"Foundation"],
+"platforms":{
+"ios":"8.0"
+},
+"homepage":"http://EXAMPLE/DWInteractiveSDK",
+"version":"2.0.7.53-BC",
+"source_code":{
+"commit":"93917ae4f15ec120bf7c057c000af450e6c8166c",
+"git":"git@gitlab.alibaba-inc.com:taobaovideo/DWInteractiveSDK.git"
+},
+"authors":{
+"wirelessread@taobao.com":"lyc89683@alibaba-inc.com"
+},
+"xcconfig":{
+"OTHER_CFLAGS":"-Xclang -fobjc-runtime-has-weak",
+"CLANG_ENABLE_MODULES":"NO",
+"GCC_PREPROCESSOR_DEFINITIONS":"$(inherited) BUILD_FOR_BAICHUAN=1"
+},
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/DWInteractiveSDK/2.0.7.53-BC/DWInteractiveSDK.zip"
+},
+"description":"DWInteractiveSDK is wrapper of TBMediaPlayerBundle when playing vod video.",
+"name":"DWInteractiveSDK",
+"license":"MIT",
+"source_files":["DWInteractiveSDK.framework/Headers/*",
+"AliHADeviceEvaluation.framework/Headers/*",
+"AliReachability.framework/Headers/*"],
+"vendored_frameworks":["DWInteractiveSDK.framework",
+"AliReachability.framework",
+"AliHADeviceEvaluation.framework"]
+}

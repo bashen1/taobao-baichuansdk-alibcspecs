@@ -1,0 +1,24 @@
+{
+  "summary": "tnet-ios framework",
+  "frameworks": "CoreFoundation",
+  "requires_arc": true,
+  "source_files": "Tnet.framework/Versions/A/Headers/*.h",
+  "description": "sdk for ALINetwrok",
+  "source": {
+    "http": "http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/tnet/3.1.10/Tnet.framework.zip"
+  },
+  "version": "3.1.10",
+  "platforms": {
+    "ios": "6.0"
+  },
+  "license": {
+    "text": "                                Alibaba-INC copyright\n",
+    "type": "Copyright"
+  },
+  "vendored_frameworks": "Tnet.framework",
+  "name": "tnet",
+  "homepage": "http://gitlab.alibaba-inc.com/daibing.db/tnet-ios.git",
+  "authors": {
+    "元斋": "daibing.db@alibaba-inc.com"
+  }
+}

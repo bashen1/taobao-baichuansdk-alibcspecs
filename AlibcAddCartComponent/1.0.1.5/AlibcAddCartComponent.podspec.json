@@ -1,0 +1,23 @@
+{
+"authors":{
+"张角":"zhangjiao@taobao.com"
+},
+"dependencies":{
+"AlibcTradeContainer":[]
+},
+"description":"阿里开发平台百川项目  AlibcAddCartComponent.",
+"homepage":"http://taoabo.com",
+"license":"MIT",
+"name":"AlibcAddCartComponent",
+"platforms":{
+"ios":"7.0"
+},
+"resources":["AlibcAddCartComponent.framework/Resources/*"],
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AlibcAddCartComponent/1.0.1.5/AlibcAddCartComponent.zip"
+},
+"source_files":"AlibcAddCartComponent.framework/Headers/*",
+"summary":"阿里开发平台百川项目",
+"vendored_frameworks":["AlibcAddCartComponent.framework"],
+"version":"1.0.1.5"
+}

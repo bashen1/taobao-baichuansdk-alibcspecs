@@ -1,0 +1,31 @@
+{
+"authors":{
+"医圣":"yisheng.xp@alibaba-inc.com"
+},
+"dependencies":{
+"SecurityGuardSDK":[]
+},
+"description":"百川多媒体文件上传",
+"homepage":"http://wantu.taobao.com/",
+"libraries":"z",
+"license":{
+"text":"Alibaba-INC copyright",
+"type":"Copyright"
+},
+"name":"ALBBMediaService",
+"platforms":{
+"ios":"6.0"
+},
+"preserve_paths":"ALBBMediaService.framework/*",
+"requires_arc":true,
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/ALBBMediaService/3.7.2.3/ALBBMediaService.zip"
+},
+"source_files":"ALBBMediaService.framework/Headers/*",
+"summary":"百川多媒体",
+"user_target_xcconfig":{
+"OTHER_LDFLAGS":"-ObjC -lstdc++ -lc++"
+},
+"vendored_frameworks":"ALBBMediaService.framework",
+"version":"3.7.2.3"
+}

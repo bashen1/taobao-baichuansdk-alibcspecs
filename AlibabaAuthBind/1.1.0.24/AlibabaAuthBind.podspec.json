@@ -1,0 +1,28 @@
+{
+"authors":{
+"御道":"madding.lip@alibaba-inc.com",
+"素流":"bangzhe.lbz@alibaba-inc.com",
+"默轩":"moxuan.hj@alibaba-inc.com"
+},
+"dependencies":{
+"AlibabaAuthSDK":[]
+},
+"description":"AlibabaAuthBind Framework",
+"homepage":"https://www.taobao.com/",
+"license":{
+"text":"Alibaba copyright",
+"type":"Copyright"
+},
+"name":"AlibabaAuthBind",
+"platforms":{
+"ios":"7.0"
+},
+"requires_arc":true,
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AlibabaAuthBind/1.1.0.24/AlibabaAuthBind.zip"
+},
+"source_files":"AlibabaAuthBind.framework/Headers/*",
+"summary":"AlibabaAuthBind：会员绑定SDK",
+"vendored_frameworks":["AlibabaAuthBind.framework"],
+"version":"1.1.0.24"
+}

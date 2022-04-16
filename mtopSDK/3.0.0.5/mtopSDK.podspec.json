@@ -1,0 +1,28 @@
+{
+"summary":"淘宝MTOPSDK",
+"authors":{
+"无宸":"wuchen.xj@alibaba-inc.com"
+},
+"resources":[],
+"frameworks":["UIKit",
+"Foundation"],
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/mtopSDK/3.0.0.5/mtopSDK.zip"
+},
+"dependencies":{
+
+},
+"description":"MTOP SDK for IOS",
+"name":"mtopSDK",
+"platforms":{
+"ios":"8.0"
+},
+"license":{
+"text":"Alibaba-Inc copyright",
+"type":"Copyright"
+},
+"vendored_frameworks":["MtopSDK.framework",
+"mtopext.framework",
+"mtopcoreopen.framework"],
+"version":"3.0.0.5"
+}

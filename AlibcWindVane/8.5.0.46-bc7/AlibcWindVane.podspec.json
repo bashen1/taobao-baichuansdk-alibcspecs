@@ -1,0 +1,21 @@
+{
+"authors":{
+"炼玉":"lianyu.ysj@alibaba-inc.com"
+},
+"description":"alibcWindVane Framework",
+"documentation_url":"http://h5.alibaba-inc.com/windvane/index.html",
+"homepage":"http://gitlab.alibaba-inc.com/ali-wireless-h5/windvane-ios",
+"license":{
+"text":"Alibaba-INC copyright",
+"type":"Copyright"
+},
+"name":"AlibcWindVane",
+"platforms":{
+
+},
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AlibcWindVane/8.5.0.46-bc7/AlibcWindVane.zip"
+},
+"summary":"alibcWindVane Framework",
+"version":"8.5.0.46-bc7"
+}

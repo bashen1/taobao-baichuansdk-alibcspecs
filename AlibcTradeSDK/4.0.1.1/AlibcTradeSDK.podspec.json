@@ -1,0 +1,28 @@
+{
+"summary":"阿里百川电商SDK.",
+"authors":{
+"仙翁":"xianweng.hxq@taobao.com"
+},
+"resources":["AlibcTradeBiz.framework/NBResource.bundle"],
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/AlibcTradeSDK/4.0.1.1/AlibcTradeSDK.zip"
+},
+"dependencies":{
+
+},
+"description":"AlibcTradeSDK Framework",
+"name":"AlibcTradeSDK",
+"platforms":{
+"ios":"8.0"
+},
+"license":{
+"text":"Alibaba-INC copyright",
+"type":"Copyright"
+},
+"source_files":["AlibcTradeSDK.framework/Headers/*",
+"AlibcTradeBiz.framework/Headers/*"],
+"homepage":"http://gitlab.alibaba-inc.com/baichuan-nbcp/nbsdk-iOS",
+"vendored_frameworks":["AlibcTradeSDK.framework",
+"AlibcTradeBiz.framework"],
+"version":"4.0.1.1"
+}

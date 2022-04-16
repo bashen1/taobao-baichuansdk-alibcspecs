@@ -1,0 +1,36 @@
+{
+"authors":{
+"huanglei.hl":"huanglei.hl@alibaba-inc.com"
+},
+"description":"YWSDKPack is still in development",
+"frameworks":["SystemConfiguration",
+"CoreLocation",
+"CoreTelephony",
+"CoreData",
+"MapKit",
+"UIKit",
+"AssetsLibrary"],
+"homepage":"http://baichuan.taobao.com/portal/doc?spm=a219a.7395903.2.51.OpKusb&articleId=282",
+"libraries":["stdc++.6.0.9",
+"z",
+"resolv"],
+"license":{
+"text":"          Alibaba-INC copyright\n",
+"type":"Copyright"
+},
+"name":"YWSDKPack",
+"platforms":{
+"ios":"6.0"
+},
+"resources":["wx/WXOpenIMSDKFMWK.framework/Versions/A/Resources/*",
+"wx/WXOUIModule.framework/Versions/A/Resources/*"],
+"source":{
+"http":"http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/YWSDKPack/2.1.0.3/YWSDKPack.zip"
+},
+"summary":"YWSDKPack is still in development",
+"vendored_frameworks":["wx/WXOUIModule.framework",
+"wx/WXOpenIMSDKFMWK.framework",
+"wx/YWExtensionForCustomerServiceFMWK.framework",
+"wx/YWFeedbackServiceFMWK.framework"],
+"version":"2.1.0.3"
+}

@@ -1,0 +1,47 @@
+{
+  "summary": "BCUserTrack.",
+  "preserve_paths": "UT.framework/*",
+  "frameworks": [
+    "SystemConfiguration",
+    "CoreTelephony"
+  ],
+  "libraries": [
+    "z",
+    "sqlite3",
+    "stdc++"
+  ],
+  "description": "UserTrack description\ncommit:65a0937ae7a55a52dfd63c78aa1ed3e802de7161",
+  "resources": "UT.framework/Versions/A/Resources/*",
+  "source": {
+    "http": "http://baichuan-sdk-repository.cn-hangzhou.oss-pub.aliyun-inc.com/baichuanRepo/ios/BCUserTrack/1.0.0-noWVnoIDFA/UT.framework.zip"
+  },
+  "version": "1.0.0-noWVnoIDFA",
+  "platforms": {
+    "ios": "5.0"
+  },
+  "dependencies": {
+    "UTDID": [],
+    "tnet": [
+      "~>3.1.0"
+    ]
+  },
+  "license": {
+    "text": "           Alibaba-INC copyright\n",
+    "type": "Copyright"
+  },
+  "exclude_files": [
+    "SDK/UTMiniSDK/WVTBUserTrack.h",
+    "SDK/UTMiniSDK/WVTBUserTrack.m",
+    "UT.framework/Versions/A/Resources/Info.plist"
+  ],
+  "vendored_frameworks": "UT.framework",
+  "name": "BCUserTrack",
+  "xcconfig": {
+    "FRAMEWORK_SEARCH_PATHS": "$(PODS_ROOT)/UTDID"
+  },
+  "public_header_files": "UT.framework/Versions/*/Headers/*",
+  "homepage": "http://gitlab.alibaba-inc.com/wireless/tbmainclientframework",
+  "authors": {
+    "晨燕": "chenyan.mnn@taobao.com"
+  }
+}
